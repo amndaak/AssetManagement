@@ -55,7 +55,7 @@
       </div>
     </header>
 
-    <!-- Content -->
+    <!-- Content MASIH TEMPLATE YA BELOM DIGANTI!!!-->
     <section class="mt-8 bg-white rounded-xl shadow px-6 py-5 w-full">
       <h2 class="text-xl font-semibold mb-4">Event yang Kamu Ikuti</h2>
       <?php if(empty($registeredEvents)): ?>
